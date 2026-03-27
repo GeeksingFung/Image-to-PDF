@@ -1,0 +1,5 @@
+{
+  "name": "Image to PDF Converter",
+  "description": "Drag and drop images, reorder them, and merge them into a single PDF file.",
+  "requestFramePermissions": []
+}
